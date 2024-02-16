@@ -9,6 +9,18 @@ import tripadvisor from './trip-advisor.svg'
 import expedia from './expedia.svg'
 import booking from './booking.svg'
 import orbitz from './orbitz.svg'
+import world from "./world.svg";
+import easybook from "./easybooking.svg";
+import forestcast from "./forecast.svg";
+import maldives from "./maldives.jpg";
+import mountians from "./mountains.jpg";
+import ocean from "./oceans.jpg"
+import Traveil from "./travelPoint.png"
+import calenderIcon from "./calendarIcon.png";
+import locationIcon from "./locationIcon.png"
+import thirdIcon from "./thirdIcon.png"
+import subGrid from "./subGrid.svg"
+import waveBg from './waveBg.svg'
 
 export {
     menu,
@@ -21,5 +33,17 @@ export {
     tripadvisor,
     expedia,
     booking,
-    orbitz
-}
+    orbitz,
+    world,
+    easybook,
+    forestcast,
+    maldives,
+    mountians,
+    ocean,
+    Traveil,
+    calenderIcon,
+    locationIcon,
+    thirdIcon,
+    subGrid,
+    waveBg
+};

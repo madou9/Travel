@@ -1,6 +1,6 @@
 import './App.css'
 import styles from './styes.jsx'
-import {Navbar, About, Customers} from './components/'
+import {Navbar, About, Customers, Services, Destinations, TravelPoint, KeyFeatures, Subscribe, Footer} from './components/'
 
 function App() {
   return (
@@ -14,6 +14,12 @@ function App() {
         <div className={`${styles.boxWidth}`}>
          <About />
          <Customers />
+         <Services />
+         <Destinations />
+         <TravelPoint />
+         <KeyFeatures />
+         <Subscribe />
+         <Footer />
         </div>
       </div>
     </div>
